@@ -1,9 +1,2 @@
-# Notes
+Tous les cours de ce repo ont été migré dans le repo [jibundeyare/cours](https://github.com/jibundeyare/cours).
 
-Ce repo contient des supports de cours.
-
-## Licence
-
-Tous les documents sont sous la licence suivante :
-
-[Creative Commons — Attribution - Utilisation non commerciale - Pas d’Œuvre dérivée 4.0 International — CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/fr/legalcode)
